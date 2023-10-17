@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/kamalcodes" target="blank"><img src="https://img.shields.io/twitter/follow/kamalcodes?logo=twitter&style=for-the-badge" alt="kamalcodes" /></a> </p>
 
-- 🔭 I’m currently working on **IoT project at Capgemini**
+- 🔭 I’m currently working on an **IoT project at Capgemini**
 
-- ⚡ Fun fact about me: **I'm a car lover**
+- ⚡ Fun fact about me: **I'm a car and cat lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
