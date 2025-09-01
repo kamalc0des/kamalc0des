@@ -8,9 +8,6 @@
   <a href="https://linkedin.com/in/kamal-aarab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kamal%20Aarab-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/kamalcodes" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kamalcodes?logo=twitter&style=for-the-badge" />
-  </a>
   <a href="https://instagram.com/kamalcodes" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@kamalcodes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
